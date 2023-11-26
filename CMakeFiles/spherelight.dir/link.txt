@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-12/root/usr/bin/c++ CMakeFiles/spherelight.dir/main.cpp.o -o spherelight  /public/devel/23-24/vcpkg/installed/x64-linux/debug/lib/libSDL2d.a /public/devel/23-24/vcpkg/installed/x64-linux/debug/lib/libSDL2maind.a -lm -ldl -lrt -pthread 
